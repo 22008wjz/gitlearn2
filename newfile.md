@@ -12,3 +12,6 @@ there are some steps to be prepared.
 first you should install a git program.
 if you work on unbuntu,install with
 sudo apt-get install git
+
+
+#now add a new branch for develop
