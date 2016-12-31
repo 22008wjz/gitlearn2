@@ -15,3 +15,5 @@ sudo apt-get install git
 
 then you can get a clean diretory,and crate an
 empty repostory
+
+#now add a new branch for develop
