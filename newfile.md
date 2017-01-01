@@ -17,3 +17,6 @@ then you can get a clean diretory,and crate an
 empty repostory
 
 #now add a new branch for develop
+git checkout -b dev origin/dev
+
+
